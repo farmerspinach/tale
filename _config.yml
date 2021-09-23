@@ -1,5 +1,5 @@
 # Site settings
-title:          Tale
+title:          菠菜种植平原
 description:    "Minimal Jekyll theme for storytellers"
 url:            "https://chesterhow.github.io"
 
@@ -8,9 +8,9 @@ google_analytics: UA—XXXXXXXX-X
 
 # Author
 author:
-  name:         Chester How
-  url:          https://chester.how
-  email:        chesterhow@gmail.com
+  name:         farmerspinach
+  url:          farmerspinach.com
+  email:        jiangz051@gmail.com
 
 # Build settings
 markdown:       kramdown
